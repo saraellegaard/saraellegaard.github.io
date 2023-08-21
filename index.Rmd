@@ -2,5 +2,4 @@
 title: "Welcome to my website!"
 ---
 
-You're up and running!
-# Saras fork
+I am a programming newbee

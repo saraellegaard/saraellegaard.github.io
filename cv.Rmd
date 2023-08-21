@@ -1,9 +1,33 @@
 ---
-title: "CV"
+title: "Curriculum vitae"
 ---
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+<a href="CV_31Jul2023.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
 ## Header
 
 Say more about your CV here.
+
+## Publications
+•	Baunwall SMD, Hansen MM, Andreasen SE, et al. Donor, patient age and exposure to antibiotics are associated with the outcome of faecal microbiota transplantation for recurrent Clostridioides difficile infection: A prospective cohort study [published online ahead of print, 2023 Jul 22]. Aliment Pharmacol Ther. 2023;10.1111/apt.17642. doi:10.1111/apt.17642
+•	Baunwall SMD, Andreasen SE, Hansen MM, et al. Faecal microbiota transplantation for first and second episodes of Clostridioides difficile infection - Authors' reply. Lancet Gastroenterol Hepatol. 2023;8(2):112-113. doi:10.1016/S2468-1253(22)00424-1
+•	Baunwall SMD, Andreasen SE, Hansen MM, et al. Faecal microbiota transplantation for first or second Clostridioides difficile infection (EarlyFMT): a randomised, double-blind, placebo-controlled trial. Lancet Gastroenterol Hepatol. 2022;7(12):1083-1091. doi:10.1016/S2468-1253(22)00276-X
+
+
+# Research experience
+2021 Dec –		PhD student working with clinical application of Fecal Microbiota Transplantation (FMT) at the Department of Hepatolgy and Gastroenterology, Aarhus University Hospital. During the PhD, I treat patients with Clostridioides difficile infection with FMT and include the patients in projects. I have included patients in the GCP-monitored randomized placebo-controlled double-blind clinical trial “Faecal microbiota transplantation for first and second episodes of Clostridioides difficile infection”. Furthermore, I work with quality improvement of the FMT-system and continuously collect data on the effectiveness of FMT in a FMT database. 
+
+2016 – 2017		Research Year, ”Noradrenaline in development and progression of non-alcoholic fatty liver disease: adrenergic receptor antagonism as a potential therapy”, Aarhus University Hospital. Experience with laboratory animal science, qPCR, autoradiography and flow cytometry. Collaboration with Institute of Hepatology at Royal Free Hospital, London UK. 
+
+
+# Clinical experience
+2021 Feb – 2021 Sep	Medical Doctor in General Practice at “Senjalegen avdeling Silsand” and Emergency Room at “Finnsnes Interkommunale Legevakt”, Norway
+
+2020 Aug – 2021 Jan	Medical Doctor in General Practice and “Lægehuset Allingåbro” (Clinical Basic Education part 2, authorised to practice medicine independently, authorisation ID: 0DDMF)
+
+2020 feb – 2020 jul	Medical Doctor at the Emergency Department at Randers Regional Hospital (Clinical Basic Education part 1)
+
+
+# Education
+2016 – 2020 		Master of Science in Medicine, Aarhus University
+2013 – 2016 		Bachelor of Science in Medicine, Aarhus University

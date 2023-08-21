@@ -2,6 +2,11 @@
 title: "About me"
 ---
 
-## Header
+## Research
+I do research in fecal microbiota transplantation (FMT) at Centre for Faecal Microbiota Transplantation (CEFTA)
 
-Say more about you here.
+## Education
+I graduated as a medical doctor from Aarhus University in 2020
+
+## Other
+I am a powerlifter on the national Danish team
